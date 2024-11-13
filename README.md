@@ -6,8 +6,4 @@ This is a basic Python project that converts text into Morse code. It's one of m
 - Converts lowercase letters and spaces to Morse code.
 - Simple and easy to run.
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/morse-code-converter.git
